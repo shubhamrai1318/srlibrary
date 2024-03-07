@@ -18,8 +18,8 @@ a:hover{color:#b7fb24;}
 /********************** Header ***************************/
 #header {
 	background-image:url(images/header.jpg);
-	width:767px;
-	height:404px;
+	width:90%;
+	height:500px;
 	position:relative;
 }
 #header ul{
